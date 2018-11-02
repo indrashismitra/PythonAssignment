@@ -1,0 +1,1 @@
+This program is a game where the player is required to guess the program's number, which is generated using RNG (random number generator). I used https://inventwithpython.com/chapter4.html for reference when writing this code.
